@@ -1,4 +1,4 @@
-[[Resonances]]
+[[Resonances/Resonances]]
 [[Oaths]]
 [[Combat]]
 [[Effects]]

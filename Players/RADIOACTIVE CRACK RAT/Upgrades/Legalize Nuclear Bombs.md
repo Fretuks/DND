@@ -38,6 +38,7 @@ Allows stabilizing gases and volatile compounds.
 - Placed on the ground
 - Detonates when stepped on
 - Requires **1 Action to place**
+- Sticks to most surfaces once placed
 ### Bombs Unlocked
 **Gas Bomb**
 * Crafting
@@ -72,6 +73,7 @@ Allows remote triggering using ether sparks.
 - Detonate using **Bonus Action**
 - Costs **2 Ether**
 - Maximum distance: **12 meters**
+- Sticks to most surfaces once thrown or placed.
 ### Bomb Unlocked
 **Scatter Bomb**
 * Crafting:

@@ -31,17 +31,17 @@ Using a charge represents producing enough infected saliva to coat a weapon.
 # Infection Stage System
 
 The plague slowly evolves over time. It has **four stages**, each unlocking stronger venom effects. The Skaven begins at **Stage I (Dormant Carrier)**. Progression is narrative and tied to the campaign.
-### Stage I - Dormant Carrier
+## Stage I - Dormant
 The infection exists but is mostly suppressed by Skaven biology.
 
 When a venom-coated weapon hits:
 - Apply **Rot Poison** to the target for **2 rounds**
 Rot Poison:
 - Target takes **1 damage at the start of its turn**
-- Target suffers **–1 Posture Regain**
+- Target suffers **-1 Posture Regain**
 
 ---
-## Stage II - Reactive Infection
+## Stage II - Reactive
 The pathogen adapts to the host. The saliva becomes more chemically aggressive.
 
 Venom Charges increase:
@@ -49,11 +49,11 @@ Venom Charges increase:
 
 Rot Poison becomes stronger:
 - **2 damage per round**
-- **–1 Posture Regain**
-- Target suffers **–1 Constitution checks**
+- **-1 Posture Regain**
+- Target suffers **-1 Constitution checks**
 
 ---
-## Stage III - Symbiotic Carrier
+## Stage III - Symbiotic
 The infection begins feeding off the host’s bloodstream. At this stage the Skaven can control venom more precisely.
 
 Venom Charges:
@@ -64,22 +64,24 @@ Venom coating lasts:
 
 Rot Poison now applies:
 - **2 damage per round**
-- **–1 Posture Regain**
-- **–1 Dodge Throw**
+- **-1 Posture Regain**
+- **-1 Dodge Throw**
+- Target suffers **-1 Constitution checks
 
 The infection interferes with reflexes.
 
 ---
-## Stage IV - Mutated Strain
+## Stage IV - Mutated
 The plague has adapted almost completely to the Skaven. Removing it becomes extremely difficult.
 
 Venom Charges:
 - **4 per combat**
 
-Rot Poison becomes **Virulent Rot**:
+Rot Poison becomes **Mutated Rot**:
 - **3 damage per round**
-- **–2 Posture Regain**
-- **–1 Dodge Throw**
+- **-2 Posture Regain**
+- **-1 Dodge Throw**
+- Target suffers **-1 Constitution checks
 - If the target becomes **Staggered**, poison damage doubles for that round.
 
 ---
@@ -103,5 +105,5 @@ For most encounters it remains a combat toxin rather than a contagious disease.
 # Biological Strain
 Producing venom repeatedly irritates the infection.
 If the Skaven uses **all venom charges in one encounter**, he suffers:
-- **–1 Constitution checks until the end of combat**
+- **-1 to Constitution checks until the end of combat**
 due to inflammation around infected tissue.

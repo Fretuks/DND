@@ -4,7 +4,7 @@ He spent most of his early life in the lower districts, living off scraps and th
 
 Eventually he was caught stealing from a warehouse owned by the Authority. Instead of executing him, they sent him to the mines outside the city. Cheap labor was more useful. The mines produced a strange ore. Workers called it **Black Meridian Ore**. The Authority banned its consumption because miners kept getting sick or unstable after handling it. The Skaven discovered something different.
 
-If the ore was ground into powder and mixed with other substances, for example alcohol, fungus cultures, certain chemicals used in minings, it produced a stimulant. The raw ore itself did nothing except create strong cravings, but mixtures created powerful temporary effects.
+If the ore was ground into powder and mixed with other substances, for example alcohol, fungus or certain chemicals used in minings, it produced a stimulant. The raw ore itself did nothing except create strong cravings, but mixtures created powerful temporary effects.
 
 Miners sometimes traded these mixtures secretly. The Skaven learned how to refine them better than most. That is where his addiction started. Over time he learned to produce multiple **variants** of the drug by mixing the ore with different reagents.
 
@@ -51,7 +51,7 @@ Ether Regain per Turn:
 - Successful Dodge movement increases from **3 -> 4.5 meters**.
 ### Parry Capability
 - **Parry Throws at Disadvantage.**
-- Counterattack damage from Parries reduced by **–1**.
+- Counterattack damage from Parries reduced by **-1**.
 ### Small Frame
 - Gain **+1.5 meters movement speed** in confined spaces.
 - **Knockback moves you +1.5 meter further.**
@@ -62,10 +62,52 @@ Ether Regain per Turn:
 	- Gain **+1 Posture Regain**
 	- Gain **+1.5 meter Movement Speed**
 - Withdrawal begins after **24 hours** without a dose.
-
 ### Withdrawal
 If the Skaven goes **24 hours without consuming a dose**, withdrawal begins.
 - Movement Speed **-3 meters**
 - Posture Regain **-2**
 - Ether Regain **-2**
 - Lose **1 sanity** every hour.
+
+---
+# SIGNATURE MOVE: Forced Adjustment (Neck Snap)
+> There's a reason why it is called a "**Crack** Rat"
+
+**Type:** Unique Riposte
+**Trigger:** Target is Staggered  
+**Action:** Action
+**Effect:**
+You leap onto the target’s back, locking your limbs around their torso and wrenching their neck into a lethal angle.
+Upon activation:
+- Make a **contested Strength check**
+**On Success:**
+- Deal **2d10 Pierce + 2d10 Blood damage**
+- Apply **+25% Blood Poisoning**
+- Target suffers:
+    - **-2 Posture Regain for 2 rounds**
+    - Cannot **Parry** until end of their next turn
+
+**Major Success (Beat by 5 or more):**
+- Deal **maximum damage (no roll)**
+- Apply **+40% Blood Poisoning**
+- Target is **Stunned for 1 round**
+
+**Partial Success (Tie):**
+* You fail to fully snap the neck but still injure the target.
+**Effect:**
+- Deal **2d6 Pierce damage**
+- Target suffers **-1 Dodge Throw** for 1 round
+
+**Failure:**
+* The target resists and throws you off.
+**Effect:**
+- You are pushed **3 meters away**
+	- Throw a dexterity saving throw against DC 10
+	- On failure, you're knocked prone.
+- Lose **2 Posture**
+- Target recovers normally from Stagger
+**Execution Threshold:**  
+
+If the target is:
+- At **≤12.5% HP**
+The neck snap instantly executes the target

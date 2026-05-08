@@ -39,4 +39,5 @@ Without the infection interfering:
 ### New Passive - Clean Blood
 The body is no longer unstable.
 - Gain **Gas AC +10**
-- Automatically succeed on Constitution checks against disease**
+- Gain **Necrotic AC +10**
+- Automatically succeed on Constitution checks against disease

@@ -51,6 +51,5 @@ Different bomb types use different casing and filler mixtures.
 The Skaven can carry:
 * **Maximum 4 bombs**
 
-Carrying more increases instability. 
 If carrying **5 or more bombs**:
 - Any critical failure on Dexterity checks or attack rolls causes **one bomb to detonate**.

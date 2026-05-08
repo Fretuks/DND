@@ -9,7 +9,7 @@
 - -1 to parry throws
 
 Blood thickens slightly and muscles tighten, making the body more resistant to impact but slower to react.
-# Variant III - Sparkshot
+# Variant III - Sparks of Lightning
 **Reagent:** Spark gland or any mantra spark
 **Effect**:
 - Attack Throws **+1**
@@ -18,7 +18,7 @@ Blood thickens slightly and muscles tighten, making the body more resistant to i
 - Lightning AC becomes 0
 
 The nervous system becomes overstimulated. Reaction speed increases, but the body becomes sensitive to electrical shocks.
-# Variant IV - Grave Dust
+# Variant IV - Gravedust
 **Reagent:** Animal blood or corpse residue
 **Effect**:
 - Regain **+10 HP immediately**
@@ -37,8 +37,8 @@ The mixture slows blood flow and reduces pain response. The body becomes tougher
 **Drawback**
 - Movement Speed **–1.5 meters**
 Body temperature drops slightly. Muscles stiffen but become resistant to cold.
-# Variant VI - Smoke Lung
-**Reagent:** Industrial solvent
+# Variant VI - Smoked Lung
+**Reagent:** Artificial Solvent
 **Effect**:
 - Gas AC **+20**
 - Gain **Advantage on Constitution saving throws**
@@ -47,7 +47,7 @@ Body temperature drops slightly. Muscles stiffen but become resistant to cold.
 
 The lungs fill with irritating vapors that temporarily harden the respiratory system but make breathing uncomfortable.
 # Variant VII - Bloodrush  
-**Reagent:** Vial of Blood
+**Reagent:** Vial of Humanoid Blood
 **Effect**:
 - Strength **+2**
 - Melee damage **+1**
@@ -57,13 +57,13 @@ The lungs fill with irritating vapors that temporarily harden the respiratory sy
 - Blood AC **becomes 0**
 
 Adrenal glands overproduce stress hormones. Muscles become stronger but blood vessels weaken.
-# Variant VIII - Gale Step
+# Variant VIII - Galetrip
 **Reagent:** Stratus orb or galestone (powder)
 **Effect**:
 - Movement Speed **+3 meters**
 - Dodge Throws gain **+1**
 **Drawback**
-- Physical AC **–5**
+- Physical AC **-10**
 
 Muscles twitch constantly, forcing rapid movement but reducing the ability to brace against attacks.
 # Variant IX - Etherwake 
@@ -76,7 +76,7 @@ Muscles twitch constantly, forcing rapid movement but reducing the ability to br
 - Willpower -1
 
 The brain becomes highly sensitive to etheric currents, improving control but stressing the mind.
-# Variant X - Gravefire
+# Variant X - Bonfire
 **Reagent:** Charred bone dust
 **Effect**:
 - Necrotic AC **+30**
@@ -86,14 +86,14 @@ The brain becomes highly sensitive to etheric currents, improving control but st
 **Drawback**
 - **All elemental AC except necrotic drops to 0
 
-Cell regeneration accelerates slightly but makes tissue unstable when exposed to heat.
-# Variant XI - Predator Instinct
+Cell regeneration accelerates slightly but makes tissue unstable when exposed to other elements.
+# Variant XI - Primal Instinct
 **Reagent:** Alpha/Crimson megalodaunt hide/blood or gland extract
 **Effect**:
 - Dexterity **+2**
 - Advantage on Stealth Throws
 **Drawback**
-- Charisma **–2**
+- Charisma **-2**
 
 Heightens aggression and predatory instincts. The user becomes socially hostile and erratic.
 # Variant XII - Black Pulse
@@ -116,7 +116,7 @@ This mixture was never used in the mines. It was developed by smugglers experime
 - Max Posture **+3**
 **Drawback**:
 At the end of the 3-round duration:
-- Take **1d6 Necrotic damage**
+- Take **1d8 Necrotic damage**
 - Gain **+2 additional Toxicity**
 
 All body systems accelerate simultaneously. Muscles and nerves operate far beyond normal limits, which causes internal damage once the effect fades.
