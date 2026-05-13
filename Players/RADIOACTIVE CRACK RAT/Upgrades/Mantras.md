@@ -1,163 +1,285 @@
-### 1-Star Mantras
-Available from **Level 1**
-### 2-Star Mantras
-Begin appearing at **Level 5**
-### 3-Star Mantras
-Begin appearing at **Level 9
+These mantras come from the Meridian Rot symbiote learning to move through the Skaven’s body. They are not clean Song techniques. They are half-cast, half-biological reactions. All mentioned checks go against DC (Your Level + 5).
 
 ---
 # 1-Star Mantras
+Available from **Level 1**
+
 ---
-## Capillary Cut
+### Tendril Jab
+**Type:** Combat  
+**Cost:** 2 Ether
+**Action:** Action  
+**Cooldown:** 2 rounds
+A thin black tendril shoots from the wrist or mouth.
+**Effect:**
+- Make a melee mantra attack at **4.5 meters**
+- Deals **1d8 Pierce**
+- Applies current venom effect if the Skaven has venom available
+- If target is already poisoned, pull them **1.5 meters** toward you
+
+---
+### Hook Gut
+**Type:** Combat  
+**Cost:** 3 Ether  
+**Action:** Action  
+**Cooldown:** 3 rounds
+A tendril hooks into the target and tears backward.
+**Effect:**
+- Range **6 meters**
+- Deals **1d6 Slash**
+- Target must make a Strength check
+- On failure:
+    - Pulled **3 meters**
+    - Loses **2 Posture**
+
+---
+### Black Spit
+**Type:** Combat  
+**Cost:** 2 Ether  
+**Action:** Bonus Action  
+**Cooldown:** 3 rounds
+The Skaven spits concentrated venom.
+**Effect:**
+- Range **6 meters**
+- Applies **Rot Poison**
+- If the target is already poisoned, extend poison duration by **1 round**
+
+---
+### Rib Needle
 **Type:** Combat  
 **Cost:** 2 Ether  
 **Action:** Action  
 **Cooldown:** 2 rounds
+The symbiote hardens saliva into a short black spike.
 **Effect:**
-* Slash at a target within 1.5 meters
-- Deal **1d8 Blood damage**
-- Apply **+15% Blood Poisoning**
-If the target is already poisoned (venom/toxin):
-- Apply an additional **+5% Blood Poisoning**
+- Range **9 meters**
+- Deals **1d6 Pierce**
+- Gains **+5 Penetration**
+- If used against a poisoned target, deals **+1 damage**
 
 ---
-## Platelet Disruption
-**Type:** Support  
-**Cost:** 2 Ether  
+### Panic Lash
+**Type:** Reaction  
+**Cost:** 3 Ether  
+**Action:** Reaction  
+**Cooldown:** 4 rounds
+When an enemy enters melee range, the symbiote lashes out automatically.
+**Effect:**
+- Trigger: enemy moves within **1.5 meters**
+- Enemy must make a Dexterity check
+- On failure:
+    - Takes **1d6 Slash**
+    - Cannot make reactions until end of turn
+
+---
+### Wall Skitter
+**Type:** Mobility  
+**Cost:** 3 Ether  
 **Action:** Bonus Action  
 **Cooldown:** 3 rounds
+Tendrils cling to walls, beams, pipes, or ceilings.
 **Effect:**
-* Mark a target you have hit with an attack in the last or current round.
-- Target suffers **-1 Posture Regain** for **2 rounds**
-- If target has ≥25% Blood Poisoning:
-    - Effect becomes **-2 Posture Regain**
-Applies **+10% Blood Poisoning**
-
----
-## Vein Tap
-**Type:** Combat  
-**Cost:** 3 Ether  
-**Action:** Action  
-**Cooldown:** 3 rounds
-**Effect:**
-* Fire a thin needle at a target within 6 meters
-- Deal **1d6 Blood damage**
-- Heal for **half the damage dealt**
-- Apply **+10% Blood Poisoning**
-If target is ≥50% Blood Poisoning:
-- Healing increases to **full damage dealt**
-
----
-## Microclot
-**Type:** Support  
-**Cost:** 2 Ether  
-**Action:** Reaction  
-**Cooldown:** 3 rounds
-**Trigger:** When you take damage
-**Effect:**
-- Reduce incoming damage by **1d6**
-- Gain **+1 Posture**
-Applies **+5% Blood Poisoning** to the attacker
+- Move up to **6 meters**
+- This movement may go along walls or ceilings
+- Does not provoke reactions
+- Must end on a surface you can reasonably cling to
 
 ---
 # 2-Star Mantras
+Begin appearing at **Level 5**
+
 ---
-## Hemorrhage Line
+### Split Maw
 **Type:** Combat  
 **Cost:** 4 Ether  
 **Action:** Action  
 **Cooldown:** 4 rounds
+The symbiote opens a temporary second jaw from the shoulder or throat.
 **Effect:**
-- Fire a thin red line in a **6-meter line**
-- Deal **2d6 Blood damage to all targets hit**
-Targets hit:
-- Gain **+20% Blood Poisoning**
-- If already ≥40%, take **+2 additional damage**
+- Melee range
+- Deals **2d6 Slash**
+- If target is poisoned:
+    - Heal **2 HP**
+    - Target loses **2 Posture**
 
 ---
-## Viscosity Shift
-**Type:** Support  
-**Cost:** 3 Ether  
-**Action:** Bonus Action  
-**Cooldown:** 4 rounds
-**Effect:**
-Your blood briefly darkens and thickens under the skin.
-- For **2 rounds**:
-    - Your attacks apply **+5% additional Blood Poisoning**
-    - Gain **+1 Dodge Throw**
-Drawback:
-- Posture Regain **-1** during duration 
-
----
-## Arterial Pin
+### Tendril Tripwire
 **Type:** Combat  
 **Cost:** 4 Ether  
 **Action:** Action  
 **Cooldown:** 4 rounds
+A tendril line snaps across the ground.
 **Effect:**
-Fire a piercing stake of blood at a target within 9 meters.
-- Deal **2d4 Blood damage**
-- Target must make a **Constitution check**
-Failure:
-- Movement Speed **-3 meters** for 1 round
-Applies **+20% Blood Poisoning**
-If target is ≥60%:
-- Movement Speed becomes **0** for 1 round
+- Create a **6-meter line** for 2 rounds.
+- Enemies crossing it for the first time must make a Dexterity check
+- On failure:
+    - Takes **1d8 Blunt**
+    - Knocked Prone if they have **0 Posture**
+    - Otherwise loses **3 Posture**
 
 ---
-## Transfusion Spike
-**Type:** Support  
-**Cost:** 4 Ether  
+### Meat Anchor
+**Type:** Combat  
+**Cost:** 5 Ether  
 **Action:** Action  
 **Cooldown:** 5 rounds
+The symbiote anchors itself into both the Skaven and the target.
 **Effect:**
-Rip a thread of blood forcefully from a target's arm and into yours.
-- Heal yourself for **15% Blood Poisoning** of a target (Rounded Down)
-	- e.g. if a target has 50% blood poisoning, you heal for 7 HP
-- Deal **1d8 Blood damage**
+- Range **6 meters**
+- Deals **1d10 Pierce**
+- Target is tethered for **1 round**
+- While tethered:
+    - Target cannot move more than **6 meters** away from you.
+
+---
+### Rot Bloom
+**Type:** Combat  
+**Cost:** 5 Ether  
+**Action:** Action  
+**Cooldown:** 5 rounds
+The Skaven coughs out a wet clump of infected tissue that bursts open.
+**Effect:**
+- Range **6 meters**
+- Radius **3 meters**
+- Deals **1d6 Gas**
+- Applies current venom effect to enemies who fail a Constitution check
+
+---
+### Tendon Counter
+**Type:** Combat  
+**Cost:** 4 Ether  
+**Action:** Reaction  
+**Cooldown:** 4 rounds
+The symbiote catches an incoming limb or weapon.
+**Effect:**
+- Trigger: you successfully Dodge a melee attack
+- Make a tendril counterattack
+- Deals **1d8 Blunt**
+- Target loses **2 Posture**
+- You may move **1.5 meters** after the counter
+
+---
+### Parasite Step
+**Type:** Mobility  
+**Cost:** 5 Ether  
+**Action:** Bonus Action  
+**Cooldown:** 5 rounds
+A tendril stabs into terrain and yanks the Skaven forward.
+**Effect:**
+- Move **9 meters** in a straight line
+- May pass through enemy spaces
+- First enemy passed through takes **1d6 Slash**
+- If that enemy is poisoned, they also suffer **-1 Dodge Throw** until next turn
+
+---
+### Suture Reflex
+**Type:** Support  
+**Cost:** 5 Ether  
+**Action:** Reaction  
+**Cooldown:** 6 rounds
+The symbiote forcibly seals wounds.
+**Effect:**
+- Trigger: you take damage
+- Reduce incoming damage by **3**
+- If poisoned by your own plague stage or suffering biological strain, remove one minor physical penalty until end of turn
+- Does not remove disease progression
 
 ---
 # 3-Star Mantras
----
-## Systemic Collapse
-**Type:** Combat  
-**Cost:** 6 Ether  
-**Action:** Action  
-**Cooldown:** 6 rounds
-**Effect:**
-Cause a surge of blood in a 4.5 meter radius around yourself. Enemies have their arteries and veins damaged, causing internal bleeding.
-- Deal **3d6 Blood damage**
-If target is ≥50% Blood Poisoning:
-- Deal **+3 additional damage**
-- Target suffers **-2 Posture Regain for 2 rounds**
-Applies **+25% Blood Poisoning**
+Begin appearing at **Level 9**
 
 ---
-## Gruesome Extraction
-**Type:** Combat  
-**Cost:** 6 Ether  
-**Action:** Action  
-**Cooldown:** 6 rounds
-**Effect:**
-Target an enemy within 9 meters and violently extract blood outward, before snapping it back.
-- Deal **2d8 Blood damage**
-- Heal for **half damage dealt**
-If target is ≥70% Blood Poisoning:
-- Heal for **full damage dealt**
-- Reduce target Blood Poisoning by **20%**
-Applies **+15% Blood Poisoning**
-
----
-## Terminal Coagulation
+### Carrion Harpoon
 **Type:** Combat  
 **Cost:** 7 Ether  
 **Action:** Action  
-**Cooldown:** 7 rounds
+**Cooldown:** 6 rounds
+A thick tendril launches like a barbed spear.
 **Effect:**
-Tug at the enemy's heartstrings. Literally. 
-Move 3 meters towards an enemy and slam your knife into their chest, starting to violently infuse poison.
-- Deal **2d4 Blood damage**
-- Deal **2d4 Poison damage**
-If target is ≥80% Blood Poisoning:
-- Immediately trigger **90% threshold effect for 1 round**
-Applies **+20% Blood Poisoning**
+- Range **9 meters**
+- Deals **2d8 Pierce**
+- Pulls target **4.5 meters**
+- If target collides with terrain or another creature:
+    - They take **1d8 Blunt**
+    - Lose **4 Posture**
+
+---
+### Uroboros Cage
+**Type:** Combat  
+**Cost:** 8 Ether  
+**Action:** Action  
+**Cooldown:** 7 rounds
+Several tendrils form a tightening ring around the target.
+**Effect:**
+- Range **6 meters**
+- Target must make a Strength or Dexterity check
+- On failure:
+    - Restrained for **1 round**
+    - Takes **2d6 Slash**
+    - Poison duration increases by **1 round**
+- On success:
+    - Takes half damage
+    - Not restrained
+
+---
+### Organ Thread
+**Type:** Combat  
+**Cost:** 7 Ether  
+**Action:** Action  
+**Cooldown:** 6 rounds
+A thin tendril pierces into a weak point and tugs internally.
+**Effect:**
+- Melee range
+- Deals **2d6 Necrotic**
+- If target is poisoned:
+    - They suffer **-2 Constitution checks** for 1 round
+    - Their next healing received is reduced by **50%**
+
+---
+### Uroboros Grasp
+**Type:** Combat  
+**Cost:** 8 Ether  
+**Action:** Action  
+**Cooldown:** 7 rounds
+**Effect:**  
+A mass of tendrils erupts outward and grabs up to **3 creatures** within **6 meters**.Each target makes a Strength check.
+On failure:
+- Restrained for 1 round
+- Takes **1d8 Necrotic damage**
+- Takes **+1d8 damage** if poisoned
+At the start of your next turn:
+- You may release all restrained targets or pull them **3 meters** toward you
+
+While maintaining the grasp, your movement speed is reduced by **3 meters**
+
+---
+### Tendril Bloom
+**Type:** Combat  
+**Cost:** 8 Ether  
+**Action:** Action  
+**Cooldown:** 7 rounds
+Tendrils burst outward from the Skaven in several directions.
+**Effect:**
+- Radius **4.5 meters**
+- All enemies in range must Dodge
+- On failure:
+    - Take **2d6 Slash**
+    - Lose **3 Posture**
+- Poisoned enemies take **+2 damage**
+
+---
+### Living Guillotine
+**Type:** Combat  
+**Cost:** 8 Ether  
+**Action:** Action  
+**Cooldown:** 7 rounds
+**Effect:**  
+Two tendrils anchor to opposite surfaces and snap together like a wire trap. 
+Choose a **6-meter line** within **9 meters**. Targets in the line must Dodge.
+On failure:
+- Take **3d8 Slash damage**
+- Become knocked prone
+- Lose **2 Posture**
+If the target is poisoned:
+- Damage becomes **Slash + Necrotic**
+- Target cannot regain Posture until the start of their next turn
