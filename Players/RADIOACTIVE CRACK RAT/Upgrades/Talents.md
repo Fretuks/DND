@@ -1,11 +1,10 @@
 *Unlocked by level. Packs alternate 1 / 2 / 1 / 2.*
 
 ---
-
 ## Level 1 (Pack: 1)
 
 ### T01 - Improvised Demolition
-_(Passive unlock – explosives crafting becomes available even if not equipped)_
+_(Passive unlock - explosives crafting becomes available even if not equipped)_
 When equipped:
 - Bomb Throw Range **+3 meters**
 - Bomb Damage **+1**

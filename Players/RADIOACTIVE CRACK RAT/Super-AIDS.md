@@ -83,7 +83,7 @@ The host experiences:
 Apply **Rot Poison** for 2 rounds.
 Rot Poison:
 - 1 damage per round
-- –1 Posture Regain
+- -1 Posture Regain
 ### Host Effect
 - No major penalties
 
@@ -100,8 +100,8 @@ Venom Charges:
 
 Rot Poison:
 - 2 damage per round
-- –1 Posture Regain
-- –1 Constitution checks
+- -1 Posture Regain
+- -1 Constitution checks
 ### Host Penalties
 - Healing received reduced by 25%
 - Sleep becomes difficult without stimulant use
@@ -115,15 +115,13 @@ Venom Coating:
 
 Rot Poison:
 - 2 damage per round
-- –1 Posture Regain
-- –1 Dodge Throw
-- –1 Constitution checks
+- -1 Posture Regain
+- -1 Dodge Throw
+- -1 Constitution checks
 ### Host Penalties
 - Max HP reduced by 2
 - Sanity loss effects occur 1 threshold earlier
 - The host occasionally hears involuntary thoughts or impulses from the symbiote
-
-At this stage the Skaven realizes the infection is thinking.
 
 ---
 ### Stage IV - Mutated Symbiosis
@@ -141,15 +139,15 @@ Venom Charges:
 Rot Poison becomes **Mutated Rot**
 Effects:
 - 3 damage per round    
-- –2 Posture Regain
-- –1 Dodge Throw
-- –1 Constitution checks
+- -2 Posture Regain
+- -1 Dodge Throw
+- -1 Constitution checks
 
 If target becomes Staggered:
 - poison damage doubles for that round
 ### Host Penalties
 - Max HP reduced by 5
-- Constitution checks suffer –1
+- Constitution checks suffer -1
 - Gain 1 level of exhaustion after every Long Rest unless suppressant drugs are consumed
 
 Removing the infection at this stage is extremely difficult.
@@ -166,9 +164,9 @@ The body is no longer functioning properly without the symbiote compensating for
 ### Venom Changes
 Mutated Rot:
 - 5 damage per round
-- –3 Posture Regain
-- –3 Dodge Throw
-- –3 Constitution checks
+- -3 Posture Regain
+- -3 Dodge Throw
+- -3 Constitution checks
 
 If target becomes Staggered:
 - poison damage triples for that round
@@ -194,5 +192,5 @@ At this stage the infection is effectively consuming the remaining body mass to 
 ### Biological Strain
 Using too much venom stresses the symbiote-host balance.
 If all Venom Charges are used in one encounter:
-- Constitution checks suffer **–1** until combat ends
+- Constitution checks suffer **-1** until combat ends
 The body becomes inflamed as the symbiote overproduces reactive fluid.

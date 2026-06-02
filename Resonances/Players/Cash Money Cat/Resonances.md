@@ -18,7 +18,6 @@ Summon an additional rocket out of thin air. Where did it come from? Your ass? W
 ### Quarterly Returns
 **Theme:** “Friendly fire actually isn't friendly at all.”
 
-**Description:**  
 After causing enough collateral damage you have been promoted to destruction-specialist.
 
 **Activation:** Once per combat.

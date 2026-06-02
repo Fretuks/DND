@@ -1,4 +1,4 @@
-Black Meridian Ore is a dull black mineral commonly found in mining regions across multiple luminants. In its raw state it has no beneficial effects. When consumed directly it only creates strong cravings and mild sickness.
+Green Meridian Ore is a dull green mineral commonly found in mining regions across multiple luminants. In its raw state it has no beneficial effects. When consumed directly it only creates strong cravings and mild sickness.
 
 The ore becomes useful only after refinement. When ground into powder and combined with other substances - alcohol, fungal cultures, mining chemicals, or biological extracts - it produces stimulants with short-term effects. These mixtures are illegal in most Authority territories.
 
@@ -8,7 +8,7 @@ The Skaven only knows **1 formula** at the start of the campaign. Additional var
 # Core Drug Crafting System
 ### Required Materials
 To create a dose, the player needs:
-* **1 unit Black Meridian Ore (powdered)**  
+* **1 unit Green Meridian Ore (powdered)**  
 * **1 reagent**
 Reagents determine the variant produced. Examples include:
 - Alcohol distillate
@@ -45,7 +45,7 @@ Consuming another dose while a previous one is active:
 ---
 
 # Toxicity System
-Black Meridian mixtures are unstable and harmful in large amounts. The character has a **Toxicity Meter**.
+Green Meridian mixtures are unstable and harmful in large amounts. The character has a **Toxicity Meter**.
 ### Toxicity Gain
 Each dose adds:
 * **+2 Toxicity**
@@ -84,7 +84,7 @@ If another overdose occurs in the same encounter:
 ---
 # Variants
 All variants use the same base ingredient:
-**1 unit Black Meridian Ore (powdered)**
+**1 unit Green Meridian Ore (powdered)**
 The second ingredient determines the variant. More complex reagents create stronger mixtures but are harder to obtain.
 
 All variants:

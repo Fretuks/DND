@@ -1,4 +1,4 @@
-These mantras come from the Meridian Rot symbiote learning to move through the Skaven’s body. They are not clean Song techniques. They are half-cast, half-biological reactions. All mentioned checks go against DC (Your Level + 5).
+These mantras come from the Meridian Rot symbiote learning to move through the Skaven’s body. They are not clean Song techniques. They are half-cast, half-biological reactions. All mentioned checks go against DC (Your Level + 5). All mentions of 'tendrils' assume long, thin, needle-like tendrils formed from infected flesh, manipulated by the meridian rot parasite and amplified by the song.
 
 ---
 # 1-Star Mantras
@@ -59,7 +59,7 @@ The symbiote hardens saliva into a short black spike.
 
 ---
 ### Panic Lash
-**Type:** Reaction  
+**Type:** Support
 **Cost:** 3 Ether  
 **Action:** Reaction  
 **Cooldown:** 4 rounds

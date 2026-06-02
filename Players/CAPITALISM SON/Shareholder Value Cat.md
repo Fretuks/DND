@@ -2,7 +2,7 @@ A field operative used when the Summer Company needs fortifications removed, amb
 
 The weapon is not designed for dueling. It is designed to delete groups. The Enforcer operates quietly until the moment of engagement. One rocket. One blast. Then reposition before retaliation arrives.
 
-They are Felinor-born and carry the cultural arrogance typical of their homeland, openly dismissive of foreigners and particularly critical of the other party members.
+They are Felinor-born and carry the cultural carelessness typical of their homeland.
 
 ---
 # Core Stats

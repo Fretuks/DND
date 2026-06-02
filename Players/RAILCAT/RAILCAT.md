@@ -6,7 +6,7 @@ A former Deepdelver of the Ignition Union, she descended into the Depths with a 
 
 Then she lost her arm, her blade, her choice. Now she serves the Summer Company. Not as a patriot, but as an asset. She helps them because she must. And that is the cruelest cage of all for a Felinor. She still smiles. She still tilts her head playfully. She still makes jokes before a fight.
 
-But when the duel begins, the air changes, her tail stops moving... And someone is about to lose.
+	But when the duel begins, the air changes, her tail stops moving... And someone is about to lose.
 
 ---
 ### Core Stats
