@@ -194,3 +194,6 @@ Using too much venom stresses the symbiote-host balance.
 If all Venom Charges are used in one encounter:
 - Constitution checks suffer **-1** until combat ends
 The body becomes inflamed as the symbiote overproduces reactive fluid.
+
+## Related notes
+- [[Players/RADIOACTIVE CRACK RAT/RADIOACTIVE CRACK RAT|Character sheet]]

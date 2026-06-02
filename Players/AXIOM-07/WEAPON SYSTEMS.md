@@ -48,3 +48,6 @@ Cannot target self two rounds in a row.
 
 [[More Weapons]]
 [[Players/AXIOM-07/Upgrades/Weapon Systems|Upgrades]]
+
+## Related notes
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

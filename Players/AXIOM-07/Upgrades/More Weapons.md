@@ -92,3 +92,6 @@ While marked:
 - First hit against the marked enemy each round deals +1 Posture Damage.
 	- These effects apply to anyone, not just you.
 Drone has 10 HP and can be destroyed.
+
+## Related notes
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

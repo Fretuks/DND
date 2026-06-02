@@ -94,3 +94,6 @@ The world is not unified.
 Kingdoms, authorities, companies, cults, and ideological movements all compete for influence. Some seek order and control. Others pursue knowledge of the Song, divine favor, or simple profit.
 
 Lumen is **politically unstable**, and the scars of the past are still open. Every major faction believes they are preventing another catastrophe in some way, and that often leads to clashes.
+
+## Related notes
+- [[Core]]

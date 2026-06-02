@@ -6,3 +6,6 @@ Weapon choice determines **combat philosophy**, not just numbers.
 [[Light Weapons]]
 [[Medium Weapons]]
 [[Heavy Weapons]]
+
+## Related notes
+- [[Combat/Combat|Combat]]

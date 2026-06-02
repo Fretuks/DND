@@ -17,3 +17,6 @@
 The Ether Battery architecture makes the chassis highly volatile when exposed to thermal overload and electrical discharge.
 
 [[Players/AXIOM-07/Upgrades/Defensive Plating System|Upgrades]]
+
+## Related notes
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

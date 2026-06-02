@@ -42,3 +42,5 @@ Gain +3m movement speed for 1 turn.
 
 [[Players/AXIOM-07/Upgrades/Momentum Engine|Upgrades]]
 
+## Related notes
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

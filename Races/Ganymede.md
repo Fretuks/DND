@@ -10,3 +10,6 @@ Ganymedes are a snail-based [[Races|race]] in Lumen that appear with dark skin, 
 	* Parasites in layer 2 take 5 rounds longer to kill you.
 * +2 Intelligence
 * +2 Willpower
+
+## Related notes
+- [[Races/Races|Races]]

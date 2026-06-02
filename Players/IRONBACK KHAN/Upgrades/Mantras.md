@@ -201,3 +201,6 @@ For 3 rounds:
 After taking damage:
 - Immediately deal 2d10 Blunt to attacker
 - Attacker loses posture equal to your Constitution Modifier + 4.
+
+## Related notes
+- [[Players/IRONBACK KHAN/IRONBACK KHAN|Character sheet]]

@@ -5,3 +5,6 @@ Union members are trained in Flamecharm, Thundercall, and the rare attunement kn
 The Union presents itself as a workers’ movement built on unity and shared struggle, but reality is more complicated. Their conflict with [[The Summer Company]] has escalated into open violence, and their treatment of [[The Divers]] often contradicts their stated ideals. They are openly hostile toward [[The Ministry]], seeing them not just as enemies, but as a fundamental threat to the world. Internal writings and speeches emphasize collective strength and sacrifice, though those principles are not always applied evenly.
 
 The Ignition Union has pushed deeper into the Depths than most groups, establishing outposts in the Second Layer ahead of rival factions. Their elite fighters, known as Deepdelvers, are chosen not only for combat skill but for acts of self-sacrifice and loyalty to the group.
+
+## Related notes
+- [[Factions/Factions|Factions]]

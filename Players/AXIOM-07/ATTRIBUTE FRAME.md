@@ -10,3 +10,6 @@
 ->Curiosity-driven processing core. Social subroutines underdeveloped.
 
 [[Players/AXIOM-07/Upgrades/Attribute Frame|Upgrades]]
+
+## Related notes
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

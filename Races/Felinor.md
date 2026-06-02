@@ -11,3 +11,5 @@ One of the most distinct races in the Lumen for their infamous cat ears, Felinor
 * +2 Dexterity
 * +2 Charisma
 
+## Related notes
+- [[Races/Races|Races]]

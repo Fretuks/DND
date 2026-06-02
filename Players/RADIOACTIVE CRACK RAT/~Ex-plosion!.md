@@ -53,3 +53,6 @@ The Skaven can carry:
 
 If carrying **5 or more bombs**:
 - Any critical failure on Dexterity checks or attack rolls causes **one bomb to detonate**.
+
+## Related notes
+- [[Players/RADIOACTIVE CRACK RAT/RADIOACTIVE CRACK RAT|Character sheet]]

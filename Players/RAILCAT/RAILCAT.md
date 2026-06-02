@@ -69,3 +69,14 @@ While in Feral State:
 [[Players/RAILCAT/Upgrades/Mantras|I don't know the season,]] [[Mantras - Feral Mode|or what is the reason,]] [[Prosthetic|I'm standing here holding my blade!]]
 [[Super-Modules|A desolate place (place)]], [[Players/RAILCAT/Upgrades/Talents|Without any trace (trace)]]
 It's only the cold wind I'm feeling.
+
+## Related notes
+- [[Players/Player Characters|Player Characters]]
+
+## Character notes
+- [[Players/RAILCAT/Summer Company Prosthetic]]
+- [[Players/RAILCAT/The Arcblade]]
+- [[Players/RAILCAT/Upgrades/Arcblade]]
+- [[Players/RAILCAT/Upgrades/Mantras - Feral Mode]]
+- [[Players/RAILCAT/Upgrades/Prosthetic]]
+- [[Players/RAILCAT/Upgrades/Super-Modules]]

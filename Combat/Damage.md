@@ -81,3 +81,6 @@ If an attack deals damage multiple times:
 - Each instance is resolved separately
 - Armor reduction applies to each instance individually
 - Posture damage is applied per hit, not per attack
+
+## Related notes
+- [[Combat/Combat|Combat]]

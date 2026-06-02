@@ -126,3 +126,6 @@ Effects:
 - Target loses **3 Posture**.
 If target is **Burning or Shocked**:
 - Add **+1d6 Lightning** or **+1d6 Fire** respectively.
+
+## Related notes
+- [[Players/RAILCAT/RAILCAT|Character sheet]]

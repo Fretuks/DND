@@ -8,3 +8,6 @@ A Critical:
  - Deals normal scaled damage
  - Adds the weapon’s **Critical Modifier**
  - Ignores blocking and parrying
+
+## Related notes
+- [[Effects/Effects|Effects]]

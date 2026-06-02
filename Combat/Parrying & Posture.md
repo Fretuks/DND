@@ -54,3 +54,5 @@ You evade instead of contesting force.
 	* They take the full weapon weight as Posture Damage.
 * If there is no specified weapon weight, the enemy takes half of the taken damage as posture damage.
 
+## Related notes
+- [[Combat/Combat|Combat]]

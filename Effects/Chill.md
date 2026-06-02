@@ -6,3 +6,6 @@ Chill numbs the body with freezing ether, slowing movement and reactions.
 - Chill lasts for **2 rounds**.
 - If a Chilled creature is afflicted by Chill again, it becomes [[Frozen]] instead.    
 - Chill immediately ends [[Burning]].
+
+## Related notes
+- [[Effects/Effects|Effects]]

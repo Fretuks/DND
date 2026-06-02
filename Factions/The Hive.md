@@ -9,3 +9,6 @@ For a long time, the Hive maintained strict control over Ironsing, eliminating a
 Hive society functions with extreme specialization. Drones handle labor and maintenance, Adjudicators resolve internal balance and disputes, and Tacticians coordinate warfare and large-scale operations. Their massive Hive Constructs, while outdated in Aratel, are still effective tools for defense and intimidation.
 
 Currently, the Hive is engaged in a quiet conflict with [[The Kingdom of Etrea]], driven by the Lord Regent’s interest in Lifeweave artifacts. Greathive territory contains numerous green-lit structures and relics believed to be fragments of the Forge, which sustain the Hive’s core systems. Tensions with [[The Central Authority]] are also rising, with clashes becoming more frequent despite the lack of an official war declaration. At the same time, the Hive has begun reaching out to [[The Children of Navae]]. This move is not based on shared belief, but on strategic compatibility.
+
+## Related notes
+- [[Factions/Factions|Factions]]

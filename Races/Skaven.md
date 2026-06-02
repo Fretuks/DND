@@ -12,3 +12,6 @@ Bonuses:
 	* You gain Advantage on Stealth Throws while in tight, dark, or cluttered areas
 * +2 Fortitude
 * +2 Strength
+
+## Related notes
+- [[Races/Races|Races]]

@@ -157,3 +157,6 @@ When equipped:
 - Movement Speed **+3 meters** 
 - Posture Regain **+1**
 - Dodge Throws **+1****
+
+## Related notes
+- [[Players/RADIOACTIVE CRACK RAT/RADIOACTIVE CRACK RAT|Character sheet]]

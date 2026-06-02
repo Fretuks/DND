@@ -144,3 +144,6 @@ _(Unlocked by level. Packs alternate 1 / 2 / 1 / 2.)_
     - Survive with **1 HP**,
     - Gain **+6 Ether**,
     - And your recovery timer does **not** reset from the triggering hit.
+
+## Related notes
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

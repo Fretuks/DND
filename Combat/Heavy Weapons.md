@@ -19,3 +19,6 @@ Heavy weapons focus on overwhelming force, posture destruction, and decisive blo
     - Heavy weapons rely on posture, not attrition
 - **High Posture Cost on Block**
     - Blocking while using a Heavy weapon causes +1 Posture loss
+
+## Related notes
+- [[Combat/Combat|Combat]]

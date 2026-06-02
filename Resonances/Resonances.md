@@ -2,7 +2,7 @@
 
 Resonances are rare, highly individualized supernatural phenomena that emerge when a person's soul, ether, and interaction with the Song become so deeply synchronized that reality itself begins adapting around them.
 
-Unlike [[Mantras]], Resonances are not learned techniques, spells, or abilities that can be taught directly. They are permanent distortions within the Song caused by a person repeatedly imprinting the same concepts, instincts, emotions, and patterns onto reality over long periods of time. Every Resonance is unique to its user and two different users can never have the same Resonance.
+Unlike [[Combat/Mantras|Mantras]], Resonances are not learned techniques, spells, or abilities that can be taught directly. They are permanent distortions within the Song caused by a person repeatedly imprinting the same concepts, instincts, emotions, and patterns onto reality over long periods of time. Every Resonance is unique to its user and two different users can never have the same Resonance.
 
 ---
 # The Song & Resonance Theory
@@ -10,7 +10,7 @@ The Song can be understood as an invisible metaphysical structure layered over r
 
 Most people interact with the Song consciously:
 - They spend Ether
-- Shape the Song through a [[Mantras|Mantra]]
+- Shape the Song through a [[Combat/Mantras|Mantra]]
 - Produce a temporary effect
 This process is deliberate and temporary. 
 
@@ -21,7 +21,7 @@ Instead of manually manipulating reality, reality near the user begins behaving 
 ---
 # Difference Between Resonances and Mantras
 ### Mantras
-[[Mantras]] are learned expressions of the Song.
+[[Combat/Mantras|Mantras]] are learned expressions of the Song.
 They require Ether expenditure, Intentional activation, Specific Words, motions, or techniques and Conscious control. Mantras temporarily alter reality through direct manipulation of the Song.
 Examples:
 - Creating fire
@@ -30,7 +30,7 @@ Examples:
 - Enhancing movement
 Once the Ether is spent and the effect ends, reality returns to normal.
 ### Resonances
-A Resonance reflects who a person fundamentally is. It is not merely tied to combat style or strength. Two people can master the same Attunement, wield the same weapon, and use the same [[Mantras]], yet develop completely different Resonances.
+A Resonance reflects who a person fundamentally is. It is not merely tied to combat style or strength. Two people can master the same Attunement, wield the same weapon, and use the same [[Combat/Mantras|Mantras]], yet develop completely different Resonances.
 
 Resonances are believed to occur when a person leaves such a deep imprint upon reality that the Song begins reproducing their influence automatically. The more powerful the person is, the stronger their resonance effect.
 
@@ -47,3 +47,13 @@ In other words:
 | Learned technique       | Emergent phenomenon          |
 | Uses Ether directly     | May sustain itself partially |
 | Can be taught           | Cannot truly be taught       |
+
+## Player resonances
+- [[Resonances/Players/Cash Money Cat/Resonances|Cash Money Cat]]
+- [[Resonances/Players/Communist Cat/Resonances|Communist Cat]]
+- [[Resonances/Players/Fuckass Clanker/Resonances|Fuckass Clanker]]
+- [[Resonances/Players/Monke/Resonances|Monke]]
+- [[Resonances/Players/Rat on Crack and Super-AIDS/Resonances|Rat on Crack and Super-AIDS]]
+
+## Related notes
+- [[Core]]

@@ -66,3 +66,6 @@ The blood is fully compromised.
 - Movement Speed reduced to **0**
 After this:
 - Blood Poisoning resets to **50%**
+
+## Related notes
+- [[Effects/Effects|Effects]]

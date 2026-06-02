@@ -32,3 +32,6 @@ You may know more Mantras than you can equip, but only equipped Mantras can be u
     Can hold **any** Mantra type (Combat, Support, or Mobility).
 
 Unlike spell slots in D&D, these aren't expended after using the mantra, instead the mantra is put on a cooldown.
+
+## Related notes
+- [[Combat/Combat|Combat]]

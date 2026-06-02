@@ -137,3 +137,6 @@ Ironically:
 > The refusal to take an Oath becomes an Oath.
 
 The result is increased flexibility and freedom because the Song now recognizes them as fundamentally unbound.
+
+## Related notes
+- [[Oaths/Oaths|Oaths]]

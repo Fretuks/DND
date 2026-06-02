@@ -8,3 +8,6 @@ Your ether flow is forcibly destabilized, leaving your reserves sluggish and pri
     - Follows all normal **Shock** rules.
     - Occurs even if the creature is immune to lightning damage.
 - Sapped does **not stack**; reapplication refreshes duration.
+
+## Related notes
+- [[Effects/Effects|Effects]]

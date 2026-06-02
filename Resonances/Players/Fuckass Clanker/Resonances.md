@@ -59,3 +59,7 @@ Axiom may immediately choose one of the following:
 **Corrupted Version**:
 * Choose two effects instead. Cannot be the same both times.
 * If you're below 25% HP, choose three effects.
+
+## Related notes
+- [[Resonances/Resonances|Resonances]]
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

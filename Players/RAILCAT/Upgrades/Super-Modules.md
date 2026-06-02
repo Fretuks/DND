@@ -52,3 +52,6 @@ Can still be Parried.
 ### Passive - Duel Focus
 If only one hostile creature is within 6m:
 - Gain +5 Penetration.
+
+## Related notes
+- [[Players/RAILCAT/RAILCAT|Character sheet]]

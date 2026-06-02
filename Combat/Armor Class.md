@@ -19,3 +19,6 @@ Example:
 If a target has **20 Slash AC**, incoming slash damage is reduced by **20%**.
 
 Damage is reduced **after** all other modifiers (crits, posture effects, etc.).
+
+## Related notes
+- [[Combat/Combat|Combat]]

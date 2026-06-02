@@ -12,3 +12,16 @@ Now Axiom-07 travels Lumen freely, curious, cheerful, dangerous and independent,
 [[Players/AXIOM-07/WEAPON SYSTEMS]] -> Mechanics related to weapons
 [[Players/AXIOM-07/Upgrades/Talents]] -> More Be an annoying fuck
 [[Players/AXIOM-07/Upgrades/Mantras|Mantras]] -> Be an annoying fuck
+
+## Related notes
+- [[Players/Player Characters|Player Characters]]
+
+## Character notes
+- [[Players/AXIOM-07/Upgrades/Attribute Frame]]
+- [[Players/AXIOM-07/Upgrades/Chassis Configuration]]
+- [[Players/AXIOM-07/Upgrades/Core Stats]]
+- [[Players/AXIOM-07/Upgrades/Defensive Plating System]]
+- [[Players/AXIOM-07/Upgrades/Momentum Engine]]
+- [[Players/AXIOM-07/Upgrades/More Weapons]]
+- [[Players/AXIOM-07/Upgrades/Soul Sub-Systems]]
+- [[Players/AXIOM-07/Upgrades/Weapon Systems]]

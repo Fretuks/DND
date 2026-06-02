@@ -7,3 +7,6 @@ That balance has started to fall apart. [[The Ignition Union]], once another con
 Internally, patience is wearing thin. Scope, one of the Company’s senior officers, has made it clear that their cooperation with the Authority has limits. If the contracts stop being worth the cost, the Summer Company will look elsewhere for allies and buyers.
 
 They are not a nation, and they do not claim moral authority. The Summer Company exists to build weapons, sell them, and stay alive in a world that is quickly learning how dangerous those weapons can be.
+
+## Related notes
+- [[Factions/Factions|Factions]]

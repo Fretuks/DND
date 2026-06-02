@@ -70,3 +70,9 @@ Ironbacks are designed to block.
 [[Players/IRONBACK KHAN/Upgrades/Core Stats|Upgrades]]
 [[Players/IRONBACK KHAN/Upgrades/Mantras|It's Angy now and it's coming for you]]
 [[Players/IRONBACK KHAN/Upgrades/Talents|Ooooh now he deals +2 posture damage, oooooh you should be scared]]
+
+## Related notes
+- [[Players/Player Characters|Player Characters]]
+
+## Character notes
+- [[Players/IRONBACK KHAN/Upgrades/The Iron Back Technique]]

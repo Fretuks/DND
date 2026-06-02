@@ -178,3 +178,6 @@ Effect: Both fighters enter a **Blade Lock**. You immediately make a **contested
 - Target is knocked back 4.5 meters
 If you lose:
 - Lose **2 Posture**.
+
+## Related notes
+- [[Players/RAILCAT/RAILCAT|Character sheet]]

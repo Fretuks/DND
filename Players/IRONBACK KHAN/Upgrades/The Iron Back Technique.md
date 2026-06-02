@@ -74,3 +74,6 @@ Tier III is unlocked at level 15
     - Gain **+3 Posture Regain** next turn.
 - While you have at least 1 Posture:
     - You cannot be knocked Prone or forcibly displaced by creatures of Large size or smaller.
+
+## Related notes
+- [[Players/IRONBACK KHAN/IRONBACK KHAN|Character sheet]]

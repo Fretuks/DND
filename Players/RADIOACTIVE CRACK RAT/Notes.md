@@ -12,3 +12,6 @@
 	* Shadow-wizard-money-gang?
 	* Death
 		* Cancer Touch
+
+## Related notes
+- [[Players/RADIOACTIVE CRACK RAT/RADIOACTIVE CRACK RAT|Character sheet]]

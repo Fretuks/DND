@@ -76,3 +76,6 @@ The chassis rebuilds in a surge of Ether discharge.
     - Return at **1 HP + 1d6 temporary HP**
     - Gain +1 Momentum.
 - 1/long rest.
+
+## Related notes
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

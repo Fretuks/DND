@@ -6,3 +6,6 @@ Blindness robs the target of visual perception.
 - The creature automatically fails any ability check requiring sight.
 - Blindness does not prevent Parrying, but Parry checks are made at **disadvantage**.
 - Blindness lasts for **2 rounds**, unless otherwise specified.
+
+## Related notes
+- [[Effects/Effects|Effects]]

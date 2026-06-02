@@ -283,3 +283,6 @@ On failure:
 If the target is poisoned:
 - Damage becomes **Slash + Necrotic**
 - Target cannot regain Posture until the start of their next turn
+
+## Related notes
+- [[Players/RADIOACTIVE CRACK RAT/RADIOACTIVE CRACK RAT|Character sheet]]

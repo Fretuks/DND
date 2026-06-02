@@ -35,3 +35,7 @@ After causing enough collateral damage you have been promoted to destruction-spe
 
 - You also gain **1 SV token** when allies are damaged by your rockets.
 - Spending **3 tokens** also gives the rocket **+2 Posture Damage**.
+
+## Related notes
+- [[Resonances/Resonances|Resonances]]
+- [[Players/CAPITALISM SON/Shareholder Value Cat|Character sheet]]

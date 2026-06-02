@@ -10,3 +10,6 @@ Adrets are a common [[Races|race]] that have blue skin with orange eyes and face
 	* Your start out with no enemy factions, in allied factions you are regarded as a friend
 - +2 Willpower
 - +2 Charisma
+
+## Related notes
+- [[Races/Races|Races]]

@@ -111,3 +111,17 @@ Upon activation:
 If the target is:
 - At **≤12.5% HP**
 The neck snap instantly executes the target
+
+## Related notes
+- [[Players/Player Characters|Player Characters]]
+
+## Character notes
+- [[Players/RADIOACTIVE CRACK RAT/Green Meridian]]
+- [[Players/RADIOACTIVE CRACK RAT/Notes]]
+- [[Players/RADIOACTIVE CRACK RAT/Super-AIDS]]
+- [[Players/RADIOACTIVE CRACK RAT/Upgrades/Big Pharma]]
+- [[Players/RADIOACTIVE CRACK RAT/Upgrades/Black Meridian Variants]]
+- [[Players/RADIOACTIVE CRACK RAT/Upgrades/Legalize Nuclear Bombs]]
+- [[Players/RADIOACTIVE CRACK RAT/Upgrades/Mantras]]
+- [[Players/RADIOACTIVE CRACK RAT/Upgrades/Talents]]
+- [[Players/RADIOACTIVE CRACK RAT/~Ex-plosion!]]

@@ -10,3 +10,6 @@
 [[Metal Rods]]
 [[Bleed]]
 [[Blood-Poisoning]]
+
+## Related notes
+- [[Core]]
