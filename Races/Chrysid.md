@@ -10,3 +10,6 @@ The Chrysid people are a [[Races|race]] related to moths, inheriting their compo
 - Gain Advantage on Insight checks
 * +2 Dexterity
 * +2 Charisma
+
+## Related notes
+- [[Races/Races|Races]]

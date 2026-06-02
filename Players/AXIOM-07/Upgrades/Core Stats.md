@@ -13,3 +13,6 @@ Base: 2 per round
 Increase by:  
 +1 at level 8  
 +1 at level 15
+
+## Related notes
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

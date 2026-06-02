@@ -8,3 +8,6 @@
 [[Damage]]
 [[Weapons]]
 [[Armor Class]]
+
+## Related notes
+- [[Core]]

@@ -2,3 +2,6 @@ Metal Rods are metallic spikes forcibly embedded into a creature’s body, infli
 
 **While afflicted with Metal Rods:**
 - Metal Rods have **no innate effect** until activated.
+
+## Related notes
+- [[Effects/Effects|Effects]]

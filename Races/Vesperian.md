@@ -8,3 +8,6 @@ Vesperians are described as a beetle themed [[Races|race]] with organically grow
 	* You gain +10 AC against all physical damage types.
 * +2 Fortitude
 * +2 Willpower
+
+## Related notes
+- [[Races/Races|Races]]

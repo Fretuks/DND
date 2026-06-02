@@ -53,3 +53,6 @@ A thin fluctuating field disperses high-energy impact before contact.
 - Once per round, when you take Elemental damage:
     - Reduce it by 5 after mitigation.
 - Does stack with Reactive Impact Bracing.
+
+## Related notes
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

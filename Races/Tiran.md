@@ -10,3 +10,6 @@ Tirans are an extremely rare bird-like [[Races|race]]. They have special circle-
 * Gain Advantage on initiative rolls
 * +2 Willpower
 * +2 Agility
+
+## Related notes
+- [[Races/Races|Races]]

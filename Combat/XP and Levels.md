@@ -83,3 +83,6 @@ Talent slot capacity increases as the character grows:
 | 16+             | 10                    |
 
 The total number of known Talents will exceed equipped slots. Build expression comes from selecting which Talents are active.
+
+## Related notes
+- [[Combat/Combat|Combat]]

@@ -10,3 +10,6 @@ Etreans are described as a snake-like [[Races|race]], who commonly have pale ski
 	* +1 HP
 * +2 Dexterity
 * +2 Intelligence
+
+## Related notes
+- [[Races/Races|Races]]

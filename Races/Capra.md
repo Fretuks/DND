@@ -15,3 +15,6 @@ Once per short rest, you can use one of your religious marks to apply a buff:
 	* Give back 5 sanity to one person they choose around them as long as they are at a campfire or Power 5+
 * +2 Intelligence
 * +2 Willpower
+
+## Related notes
+- [[Races/Races|Races]]

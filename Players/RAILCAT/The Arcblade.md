@@ -16,3 +16,6 @@ Dash 6 meters in a straight line.
     - 1d8 Slash
     - 1d4 Fire
 - Applies Burning if it Crits normally.
+
+## Related notes
+- [[Players/RAILCAT/RAILCAT|Character sheet]]

@@ -16,3 +16,6 @@ Medium weapons are the **baseline** and most versatile category, balancing offen
     - Usually 0–5%
 - **Average Mobility**
     - No dodge or movement bonuses
+
+## Related notes
+- [[Combat/Combat|Combat]]

@@ -49,3 +49,6 @@ Much of it was lost during the Tides, including the city of Celtor, which was dr
 Very little is known about the Northern Luminant.
 
 What information exists suggests an **extremely cold** environment, with conditions hostile to most forms of life. Expeditions are rare, and permanent settlements are either nonexistent or extremely isolated. Much of the region remains unexplored, making it a source of speculation, myth, and lost history.
+
+## Related notes
+- [[World/Lumen|Lumen]]

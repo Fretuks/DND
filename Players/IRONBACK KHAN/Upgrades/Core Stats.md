@@ -4,3 +4,5 @@ Every level up:
 * Sanity +1 + Willpower Modifier
 * Ether +1d6 + Willpower Modifier
 
+## Related notes
+- [[Players/IRONBACK KHAN/IRONBACK KHAN|Character sheet]]

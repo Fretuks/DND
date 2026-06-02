@@ -41,3 +41,6 @@ The Company can:
 - Lock offensive modules
 - Or fully paralyze the arm
 They don’t do it casually. But they _can_.
+
+## Related notes
+- [[Players/RAILCAT/RAILCAT|Character sheet]]

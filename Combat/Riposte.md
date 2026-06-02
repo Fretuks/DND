@@ -3,3 +3,6 @@ When an enemy is stance-broken, they enter a 'staggered' state for 1 round. Anyo
 Ripostes symbolize abusing an enemy's broken stance to attack their vital parts.
 
 In other words 50 Bazillion Damage
+
+## Related notes
+- [[Combat/Combat|Combat]]

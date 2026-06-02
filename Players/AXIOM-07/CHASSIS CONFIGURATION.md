@@ -17,3 +17,5 @@ Regain **2 Ether** at the start of your next turn if:
 [[Players/AXIOM-07/Upgrades/Chassis Configuration|Upgrades]]
 [[Players/AXIOM-07/Upgrades/Core Stats|More Upgrades]]
 
+## Related notes
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

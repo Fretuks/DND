@@ -5,3 +5,6 @@ The Ministry believes the world above is flawed and must be brought down into th
 Rather than acting openly, the Ministry works through pressure and corruption. They destabilize regions, turn allies against each other, and let disasters unfold while guiding events from the shadows. Their leadership is said to consist of **Nine Prophets**, beings who wield immense influence and no longer think like ordinary mortals. Ministry operatives include Shadowcasters, blood cultists, and creatures altered beyond recognition. Their presence is often marked by the Krulian Knife, a weapon also found among abyssal entities such as the Ferryman, hinting at how deeply their reach extends. Some claim a Prophet has infiltrated leadership somewhere.
 
 The Ministry is hostile to nearly every major power, but they do not wage war in the traditional sense. They collapse systems rather than confront them, offering power to the desperate and silence to the curious. Those who serve the Ministry are not celebrated or remembered. When they are no longer useful, they simply vanish, leaving behind no records, no graves, and no one willing to speak their names.
+
+## Related notes
+- [[Factions/Factions|Factions]]

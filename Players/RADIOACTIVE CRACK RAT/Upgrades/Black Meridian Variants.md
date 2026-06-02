@@ -120,3 +120,6 @@ At the end of the 3-round duration:
 - Gain **+2 additional Toxicity**
 
 All body systems accelerate simultaneously. Muscles and nerves operate far beyond normal limits, which causes internal damage once the effect fades.
+
+## Related notes
+- [[Players/RADIOACTIVE CRACK RAT/RADIOACTIVE CRACK RAT|Character sheet]]

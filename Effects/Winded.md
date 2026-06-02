@@ -5,3 +5,6 @@ Your breath is violently forced from your lungs, disrupting balance, timing, and
 - Winded does **not** prevent attacking, parrying, dodging, or casting [[Combat/Mantras]].
 - Winded lasts for **2 rounds**, unless otherwise specified.
 - Reapplying Winded **refreshes the duration**, but does not stack its penalties unless explicitly stated by a feature.
+
+## Related notes
+- [[Effects/Effects|Effects]]

@@ -10,3 +10,6 @@ _Navae's star guides your path, showing you the way forwards. You are less prone
 	* When blinded, you gain 3 meter dark vision instead of becoming blind.
 * +2 Strength
 * +2 Fortitude
+
+## Related notes
+- [[Races/Races|Races]]

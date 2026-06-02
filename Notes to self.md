@@ -6,3 +6,5 @@ Overhaul Bosses and Campaign
 Don't overplan
 Don't underplan
 
+## Related notes
+- [[Core]]

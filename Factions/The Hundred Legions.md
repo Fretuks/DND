@@ -5,3 +5,6 @@ Legionnaires wear bronze armor inspired by ancient western empires, designed for
 The Hundred Legions are known for their strict training and emphasis on martial skill. They developed **Legion Kata**, a close-combat fighting style focused on control, precision, and overwhelming pressure. Access to this technique is limited and must be earned through recognition by Centurions. The Legions rarely involve themselves directly in foreign wars, preferring to observe, evaluate, and intervene only when it serves their long-term interests.
 
 Respect within the Legions is everything. Those who earn it are treated as equals, regardless of origin. Those who lose it are dismissed entirely, their word and presence carrying no weight. The Hundred Legions do not seek conquest or territory, they exist to be ready. When they move as one, it is because a decision has already been made.
+
+## Related notes
+- [[Factions/Factions|Factions]]

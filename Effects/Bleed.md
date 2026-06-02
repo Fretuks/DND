@@ -22,3 +22,5 @@ If a creature does not gain Bleed Buildup for **1 full round**:
 - Bleed Buildup is reduced by **20% of the Bleed Threshold** at the end of that round
 Bleed Buildup can never drop below 0.
 
+## Related notes
+- [[Effects/Effects|Effects]]

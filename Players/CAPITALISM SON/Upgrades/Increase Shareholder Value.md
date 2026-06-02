@@ -115,3 +115,6 @@ Impact:
 - **Penetration:** 30%
 
 Hyper-Mortar Strike cannot be parried or blocked. Creatures may Dodge normally.
+
+## Related notes
+- [[Players/CAPITALISM SON/Shareholder Value Cat|Character sheet]]

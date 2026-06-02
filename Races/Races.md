@@ -1,0 +1,16 @@
+[[Adret]]
+[[Canor]]
+[[Capra]]
+[[Celtor]]
+[[Chrysid]]
+[[Etrean]]
+[[Felinor]]
+[[Ganymede]]
+[[Gremor]]
+[[Khan]]
+[[Skaven]]
+[[Tiran]]
+[[Vesperian]]
+
+## Related notes
+- [[Core]]

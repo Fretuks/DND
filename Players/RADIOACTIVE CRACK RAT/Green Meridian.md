@@ -104,3 +104,6 @@ The Skaven beagins with **Variant I**.
 - Dexterity checks -1
 
 Heart rate increases slightly and breathing becomes faster. It keeps the user alert but does not heavily strain the body.
+
+## Related notes
+- [[Players/RADIOACTIVE CRACK RAT/RADIOACTIVE CRACK RAT|Character sheet]]

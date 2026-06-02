@@ -147,3 +147,6 @@ Engage traction spikes and run along a vertical surface for up to **9 meters**.
 If you attack during the wallrun:
 - Gain +1 Momentum.
 - Your attack gains +2 Posture damage.
+
+## Related notes
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

@@ -9,3 +9,6 @@ Shock disrupts the nervous system with violent electrical discharge.
 **While Shocked:**
 - Movement speed is reduced by **25%** until the end of the creature’s next turn.
 - Shock does **not** stack; reapplication refreshes duration.
+
+## Related notes
+- [[Effects/Effects|Effects]]

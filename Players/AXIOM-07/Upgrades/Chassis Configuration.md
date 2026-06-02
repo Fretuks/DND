@@ -48,3 +48,6 @@ Fragments of previous data-states are backed up into hardened memory coils.
 **Effect:**
 - When entering Orb State, you do not lose Sanity from Critical Destabilization for the first round.
 - Once per long rest, if you would permanently die due to Sanity reaching 0, remain at 1 Sanity instead.
+
+## Related notes
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

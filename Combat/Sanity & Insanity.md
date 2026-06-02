@@ -9,3 +9,6 @@ Insanity has 4 Stages: 
 You lose Sanity by being in the depths. There are other sources of Sanity loss, but the depths are the main one.
 
 Sanity can be restored by resting, certain talents or [[Combat/Mantras]] and being in safe places.
+
+## Related notes
+- [[Combat/Combat|Combat]]

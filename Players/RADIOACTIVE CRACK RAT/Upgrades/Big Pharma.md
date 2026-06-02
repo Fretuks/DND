@@ -87,3 +87,6 @@ The Skaven now uses crafted toxins instead of biological venom
 - Gas AC +10
 - Necrotic AC +10
 - Automatically succeed Constitution checks against disease
+
+## Related notes
+- [[Players/RADIOACTIVE CRACK RAT/RADIOACTIVE CRACK RAT|Character sheet]]

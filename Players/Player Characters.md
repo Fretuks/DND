@@ -13,3 +13,6 @@
 
 [[Shareholder Value Cat|Very Trustworthy Shareholder Value Increasing Very Valuable Cat (Scammer)]]
 ![[iu_.png]]
+
+## Related notes
+- [[Core]]

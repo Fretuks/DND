@@ -13,3 +13,6 @@ Light weapons favor speed, precision, and pressure through repeated actions rath
     - Deals reduced Posture damage        
 - **Lower Penetration**
     - Typically 0–5 Penetration
+
+## Related notes
+- [[Combat/Combat|Combat]]

@@ -14,3 +14,6 @@ Celtors are a common [[Races|race]] with a pale-ish green skin, grey hair and a 
 - Gain **Advantage on Charisma checks**
 * +2 Intelligence
 * +2 Charisma
+
+## Related notes
+- [[Races/Races|Races]]

@@ -9,3 +9,6 @@ Rather than relying solely on its own forces, the Authority contracts outside gr
 Publicly, the Authority claims its ultimate goal is to unite the Luminants against existential threats such as the Tides. In practice, stability is maintained through surveillance and intimidation. Inquisitors silence dissent, Shock Corps suppress unrest, and when probslems cannot be addressed openly, the Knives are quietly deployed.
 
 The Authority’s ongoing war with [[The Kingdom of Etrea]] and [[The Ministry]] has grown beyond a simple territorial conflict. What began as a political struggle is now framed by the Authority as a fight for survival, a justification increasingly used to defend harsher policies.
+
+## Related notes
+- [[Factions/Factions|Factions]]

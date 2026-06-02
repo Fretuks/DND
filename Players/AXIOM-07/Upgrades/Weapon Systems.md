@@ -52,3 +52,6 @@ Full Hive-Pattern integration.
     - That module gains +5% Penetration and +1 Posture damage for the day.
 - Special Modules gain:
     - -1 Turn Cooldown (minimum 1).
+
+## Related notes
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

@@ -22,3 +22,6 @@ A creature afflicted with Burning is engulfed in persistent elemental flames.
 #### Wraith Flames:
 * Same effects as normal burning.
 * Drains 1 ether and sanity every time the fire deals burning damage.
+
+## Related notes
+- [[Effects/Effects|Effects]]

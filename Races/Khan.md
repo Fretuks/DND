@@ -9,3 +9,6 @@ Khans are a rare [[Races|race]] with light skin, and a monkey-like appearance. K
 	* You are unable to use guns as they are 'dishonorable'.
 * +2 Strength
 * +2 Agility
+
+## Related notes
+- [[Races/Races|Races]]

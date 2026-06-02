@@ -44,3 +44,6 @@ If an incapacitated creature:
 - **Is burning**
 - **Is submerged in water**
 They die after **2 rounds** if not picked up or removed from the hazard.
+
+## Related notes
+- [[Combat/Combat|Combat]]

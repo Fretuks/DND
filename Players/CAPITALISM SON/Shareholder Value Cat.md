@@ -55,3 +55,13 @@ When firing the NMM:
 ==Raised under Etrean doctrine of cultural superiority, the Enforcer has little patience for outsiders.==
 - ==**+2 on Intimidation checks** against non-Etreans.==
 - ==**-2 on Persuasion checks** when dealing with non-Etrean allies or factions.==
+
+## Related notes
+- [[Players/Player Characters|Player Characters]]
+
+## Character notes
+- [[Players/CAPITALISM SON/Non-Magic-Missile (NMM)]]
+- [[Players/CAPITALISM SON/Upgrades/Increase Shareholder Value]]
+- [[Players/CAPITALISM SON/Upgrades/Legalize Nuclear Bombs (Slowed & Reverb)]]
+- [[Players/CAPITALISM SON/Upgrades/Mantras]]
+- [[Players/CAPITALISM SON/Upgrades/Talents]]

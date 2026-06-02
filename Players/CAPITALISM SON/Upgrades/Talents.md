@@ -131,3 +131,6 @@
 - Once per combat, you may fire **two rockets with the same shot**
 - Both rockets **must target the same point**.
 - This puts alot of strain onto the NMM. For the rest of the combat, reloading takes twice as long to do. This applies to assisted reloads.
+
+## Related notes
+- [[Players/CAPITALISM SON/Shareholder Value Cat|Character sheet]]

@@ -81,3 +81,5 @@ Magnetic Recall now:
 If you Parry the same target twice in 2 rounds:
 - Their next Dodge is made at disadvantage.
 
+## Related notes
+- [[Players/RAILCAT/RAILCAT|Character sheet]]

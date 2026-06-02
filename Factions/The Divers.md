@@ -9,3 +9,6 @@ Joining the Divers is extremely dangerous. The majority of recruits do not survi
 Black Divers are the organization’s most capable operatives. Some are renowned for their skill, others for their insight, and many for their ability to endure conditions that break most people. Figures such as Chaser, Klaris, and Carrion are well known, though far more Divers die without recognition. A small number manage to retire, including Sophodon Surad, who survived decades of exposure to the Depths before stepping away from active duty.
 
 Divers rely on a mix of technology and dangerous magic. They make use of attunements like Ironsing and Flamecharm, adapted monster abilities, and mechanical systems such as elevators to move between layers. In some cases, young initiates are trained early, a practice that has drawn criticism but continues due to necessity.
+
+## Related notes
+- [[Factions/Factions|Factions]]

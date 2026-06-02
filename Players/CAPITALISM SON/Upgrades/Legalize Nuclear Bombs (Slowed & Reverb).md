@@ -112,3 +112,6 @@ Prototype breaching round meant for clearing rooms.
 Enemies hit must make a **Constitution Save**.
 Failure:
 - **Stunned for 1 round**
+
+## Related notes
+- [[Players/CAPITALISM SON/Shareholder Value Cat|Character sheet]]

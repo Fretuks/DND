@@ -28,3 +28,6 @@ Examples:
 
 The Song does not care whether the statement is logical. It cares whether the soul is altered strongly enough to become recognizable.
 
+## Related notes
+- [[Oaths/How to Oath (Part 1 of 27) NO CLICKBAIT 100% REAL|How to Oath]]
+- [[Core]]

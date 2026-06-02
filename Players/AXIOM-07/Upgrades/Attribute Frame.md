@@ -28,3 +28,6 @@ Improved mimicry routines and adaptive tonal modulation.
 **Effect:**
 - Gain proficiency in Persuasion or Deception (choose once).
 - When speaking to constructs or artificial beings, you gain advantage on social checks.
+
+## Related notes
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

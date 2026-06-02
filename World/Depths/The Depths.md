@@ -36,4 +36,7 @@ Insanity acquired in the Depths manifests as intrusive thoughts, altered percept
 
 ---
 ### Return to the Overworld
-Escape from the Depths is not achievable through effort alone. A soul may return only if a sufficiently powerful divine entity restores or recreates a body and permits reintegration into the Overworld. 
+Escape from the Depths is not achievable through effort alone. A soul may return only if a sufficiently powerful divine entity restores or recreates a body and permits reintegration into the Overworld.
+
+## Related notes
+- [[World/Lumen|Lumen]]

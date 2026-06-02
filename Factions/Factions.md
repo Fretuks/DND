@@ -8,3 +8,6 @@
 [[The Kingdom of Etrea]]
 [[The Divers]]
 [[The Hive]]
+
+## Related notes
+- [[Core]]

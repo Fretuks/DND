@@ -47,3 +47,6 @@ The system identifies staggered prey.
 - Performing a Riposte grants +1 Momentum.
 	- Each effect can trigger once per round. 
 	- These gains still obey the normal Momentum gain cap.
+
+## Related notes
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

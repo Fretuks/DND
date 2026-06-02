@@ -115,3 +115,6 @@ _(Unlocked by level. Packs alternate 1 / 2 / 1 / 2.)_
 - While you have at least 1 Posture:
     - You cannot be forcibly displaced by creatures of equal or smaller size.
     - The first attack each round against you suffers -10% damage (after mitigation).
+
+## Related notes
+- [[Players/IRONBACK KHAN/IRONBACK KHAN|Character sheet]]

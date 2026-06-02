@@ -83,3 +83,6 @@ Allows remote triggering using ether sparks.
 * Damage:
 	- **1d4 Pierce damage (3 separate hits)**
 * Each hit resolves separately against armor.
+
+## Related notes
+- [[Players/RADIOACTIVE CRACK RAT/RADIOACTIVE CRACK RAT|Character sheet]]

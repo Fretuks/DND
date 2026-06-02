@@ -10,3 +10,6 @@ Canor are an uncommon [[Races|race]] considered to have the characteristics of a
 	* When an ally within 6 meters is knocked, you gain Advantage on your next attack.
 * +2 Strength
 * +2 Charisma
+
+## Related notes
+- [[Races/Races|Races]]

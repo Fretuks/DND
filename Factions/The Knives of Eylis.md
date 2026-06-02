@@ -7,3 +7,6 @@ Members of the Knives swear a strange Oath that grants them limited control over
 The Knives are known to work for [[The Central Authority]] in secret, disrupting Etrean movements and capturing members of [[The Children of Navae]] for transport to Fort Merit. Despite this cooperation, they are not truly loyal to the Authority and are treated more as disposable assets than allies. Rumors about their past vary, some claim they were once whalers in an earlier age, others believe their “hunt” has simply grown larger over time.
 
 Whether they are guided by a higher power or driven by obsession is unclear. What _is_ clear is that encounters with the Knives of Eylis rarely leave witnesses behind.
+
+## Related notes
+- [[Factions/Factions|Factions]]

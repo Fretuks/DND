@@ -84,3 +84,6 @@ Result:
 - No check required.
 
 [[Players/AXIOM-07/Upgrades/Soul Sub-Systems|Upgrades]]
+
+## Related notes
+- [[Players/AXIOM-07/AXIOM-07 “DEVIANTCORE”|Character sheet]]

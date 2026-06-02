@@ -179,3 +179,6 @@ Electrify a **6 meter radius** area for **2 rounds**.
 Enemies inside:
 - Lose **1 Posture at the start of their turn**
 - Suffer **-2 Dodge Throws**
+
+## Related notes
+- [[Players/CAPITALISM SON/Shareholder Value Cat|Character sheet]]

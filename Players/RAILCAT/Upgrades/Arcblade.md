@@ -133,3 +133,5 @@ Effect:
 	    - Ignore 10 Lightning and Fire AC (this stacks with Rail Convergence rules).
 - Counts toward Static Wake.
 
+## Related notes
+- [[Players/RAILCAT/RAILCAT|Character sheet]]

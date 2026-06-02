@@ -143,3 +143,6 @@ _(Unlocked by level. Packs alternate 1 / 2 / 1 / 2)_
 - While in **Feral State**:
     - Gain **+3 Posture damage**
     - Gain **+3 meters movement speed**.
+
+## Related notes
+- [[Players/RAILCAT/RAILCAT|Character sheet]]

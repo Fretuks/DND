@@ -5,3 +5,6 @@ The Kingdom of Etrea lies within the Etrean Luminant, a windswept region known f
 Two figures are widely associated with Etrea’s stability. The first is the **Lord Regent**, who rules from the palace in Etris and is rarely seen in public, delegating authority through trusted officials. His leadership is generally viewed as calm, decisive, and effective. The second is **Maestro Evengarde Rest**, the master of the Vigil Swordsmen on the Isle of Vigils. Known across the Luminants as one of the greatest living swordsmen, Evengarde is a symbol of Etrea’s martial tradition and discipline.
 
 Etrea is currently engaged in open war with [[The Central Authority]] a conflict that has reinforced the kingdom’s inward focus and strict governance. Within Etrea, life continues under a strong sense of order and control. Records, traditions, and public narratives present the current era as one of continuity rather than change, and most citizens regard the kingdom as stable, if tightly governed.
+
+## Related notes
+- [[Factions/Factions|Factions]]

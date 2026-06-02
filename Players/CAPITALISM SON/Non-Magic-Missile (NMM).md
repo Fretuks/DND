@@ -17,3 +17,6 @@ After firing:
 - Reloading normally consumes the **entire turn**.
 
 The Enforcer begins encounters with 3 Rockets. More are gained from summer company outposts or during short rests.
+
+## Related notes
+- [[Players/CAPITALISM SON/Shareholder Value Cat|Character sheet]]
