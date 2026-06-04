@@ -49,11 +49,11 @@ In other words:
 | Can be taught           | Cannot truly be taught       |
 
 ## Player resonances
-- [[Resonances/Players/Cash Money Cat/Resonances|Cash Money Cat]]
-- [[Resonances/Players/Communist Cat/Resonances|Communist Cat]]
-- [[Resonances/Players/Fuckass Clanker/Resonances|Fuckass Clanker]]
-- [[Resonances/Players/Monke/Resonances|Monke]]
-- [[Resonances/Players/Rat on Crack and Super-AIDS/Resonances|Rat on Crack and Super-AIDS]]
+- [[Resonances - Cash Money Cat|Cash Money Cat]]
+- [[Resonances - Communist Cat|Communist Cat]]
+- [[Resonances - Clanker|Fuckass Clanker]]
+- [[Resonances - Monkey|Monke]]
+- [[Resonances - Crack Rat|Rat on Crack and Super-AIDS]]
 
 ## Related notes
 - [[Core]]

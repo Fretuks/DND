@@ -5,7 +5,7 @@ Adrets are a common [[Races|race]] that have blue skin with orange eyes and face
 **Bonuses:**
 "Your understanding of your destiny is such that learning new things comes naturally to you. People appreciate your diplomatic way of speaking."
 * Maudet:  
-	* Receive 3 free points whenever you Power up.
+	* Receive 1 free investment point whenever you Power up.
 	* You gain +1 to all non-combat skill checks (Persuasion, Insight, History, etc.)
 	* Your start out with no enemy factions, in allied factions you are regarded as a friend
 - +2 Willpower
