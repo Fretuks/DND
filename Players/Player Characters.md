@@ -16,7 +16,7 @@
 
 | Rang | Charakter | Schwierigkeit | Warum |
 |---:|---|---|---|
-| 1 | **Shareholder Value Cat** | Am einfachsten | Einfacher Fernkampf-/Explosiv-Loop: schießen, repositionieren, nachladen. |
+| 1 | **Shareholder Value Cat** | Am einfachsten | Einfacher Fernkampf-/Explosiv-Loop: schiessen, repositionieren, nachladen. |
 | 2 | **Ironback Khan** | Einfach | Sehr widerstandsfähiger Tank mit klarer Block-/Grapple-Rolle. |
 | 3 | **Railcat** | Mittel | Starke Duellantin, aber Parry-Timing und Feral State machen sie komplexer. |
 | 4 | **Radioactive Crack Rat** | Schwer | Fragil, drogenabhängig, Gift-Mechaniken und bedingter Execute-Spielstil. |
