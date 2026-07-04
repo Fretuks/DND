@@ -1,4 +1,4 @@
-### Klassifikationsstufe: EINGESCHRÄNKT · Nur für autorisierte Amtsträger
+### Klassifikationsstufe: EINGESCHRÄNKT - Nur für autorisierte Amtsträger
 
 ---
 
