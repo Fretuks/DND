@@ -11,10 +11,14 @@
             "id": "739dfc34a997228f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bestiary/Archiv des Nest - Baupläne/Nest-Konstrukt Modell 12 - Zion.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Nest-Konstrukt Modell 12 - Zion"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bestiary/Archiv des Nest - Baupläne/Nest-Konstrukt Modell 12 - Zion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise"
+              "title": "Rückverweise auf Nest-Konstrukt Modell 12 - Zion"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bestiary/Archiv des Nest - Baupläne/Nest-Konstrukt Modell 12 - Zion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links"
+              "title": "Ausgehende Links von Nest-Konstrukt Modell 12 - Zion öffnen"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Bestiary/Archiv des Nest - Baupläne/Nest-Konstrukt Modell 12 - Zion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Gliederung von Nest-Konstrukt Modell 12 - Zion"
             }
           }
         ]
@@ -178,17 +185,19 @@
   },
   "active": "739dfc34a997228f",
   "lastOpenFiles": [
+    "Bestiary/Archiv des Nest - Baupläne/Nest-Konstrukt Modell 7 - Axiom.md",
+    "Bestiary/Archiv des Nest - Baupläne/Nest-Konstrukt Modell 12 - Zion.md",
+    "Bestiary/Archiv des Nest - Baupläne/Nest-Konstrukt Modell 1 - Wächter.md",
+    "Bestiary/Notizen des 1. Architekt - Hive/Hive Konstrukt Modell 7 - Axiom.md",
+    "Bestiary/Kompendium der Lebewesen Lumens/Eintrag K02 - Stein-Ritter.md",
+    "Bestiary/Kompendium der Lebewesen Lumens/Eintrag E01 - Tiefeneule.md",
+    "Bestiary/Berichte des Amt für Strategie - Autorität/AS-VII-044.md",
     "terrapod1.png",
     "sharko1.png",
-    "Bestiary/Notizen des 1. Architekt - Hive/Hive Konstrukt Modell 7 - Axiom.md",
-    "Bestiary/Notizen des 1. Architekt - Hive/Hive Konstrukt Modell 1 - Bewacher.md",
-    "Bestiary/Notizen des 1. Architekt - Hive",
-    "Bestiary/Berichte des Amt für Strategie - Autorität/AS-VII-044.md",
+    "Bestiary/Archiv des Nest - Baupläne",
     "Bestiary/Berichte des Amt für Strategie - Autorität",
-    "Bestiary/Kompendium der Lebewesen Lumens/Eintrag K02 - Stein-Ritter.md",
     "Bestiary/Kompendium der Lebewesen Lumens/Eintrag 089 - Terrapod.md",
     "Bestiary/Kompendium der Lebewesen Lumens/Eintrag 117 - Megalodaunt.md",
-    "Bestiary/Kompendium der Lebewesen Lumens/Eintrag E01 - Tiefeneule.md",
     "Bestiary/Kompendium der Lebewesen Lumens/Eintrag 076 - Thresher.md",
     "Bestiary/Kompendium der Lebewesen Lumens/Eintrag 034 - Schlammspringer.md",
     "Bestiary/Kompendium der Lebewesen Lumens/Eintrag 007 - Hirnsauger.md",
@@ -218,7 +227,6 @@
     "Races/Skaven.md",
     "Races/Races.md",
     "Races/Khan.md",
-    "Races/Gremor.md",
     "Pasted image 20260318122938.png",
     "Overview.canvas"
   ]
