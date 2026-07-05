@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary/Berichte des Amt für Strategie - Autorität/AS-VII-044.md",
+                "file": "Bestiary/Internes Waffenarchiv - Sommergesellschaft/Der \"Mechalodaunt\".md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AS-VII-044"
+              "title": "Der \"Mechalodaunt\""
             }
           }
         ]
@@ -184,15 +184,18 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "739dfc34a997228f",
+  "active": "9285a3c600aef7bb",
   "lastOpenFiles": [
     "Bestiary/Archiv des Nest - Baupläne/Nest-Konstrukt Modell 12 - Zion.md",
     "Bestiary/Archiv des Nest - Baupläne/Nest-Konstrukt Modell 7 - Axiom.md",
+    "Bestiary/Internes Waffenarchiv - Sommergesellschaft/Der \"Mechalodaunt\".md",
+    "Bestiary/Internes Waffenarchiv - Sommergesellschaft",
+    "Bestiary/Unbenannt.md",
     "Bestiary/Archiv des Nest - Baupläne/Nest-Konstrukt Modell 1 - Wächter.md",
+    "Bestiary/Berichte des Amt für Strategie - Autorität/AS-VII-044.md",
     "Bestiary/Notizen des 1. Architekt - Hive/Hive Konstrukt Modell 7 - Axiom.md",
     "Bestiary/Kompendium der Lebewesen Lumens/Eintrag K02 - Stein-Ritter.md",
     "Bestiary/Kompendium der Lebewesen Lumens/Eintrag E01 - Tiefeneule.md",
-    "Bestiary/Berichte des Amt für Strategie - Autorität/AS-VII-044.md",
     "terrapod1.png",
     "sharko1.png",
     "Bestiary/Archiv des Nest - Baupläne",
@@ -221,13 +224,10 @@
     "Resonances/Players/Cash Money Cat/Resonances - Cash Money Cat.md",
     "Resonances/Players/Rat on Crack and Super-AIDS",
     "Resonances/Players/Monke",
-    "Resonances/Players/Fuckass Clanker",
     "Resonances/Resonances.md",
     "Races/Vesperian.md",
     "Races/Tiran.md",
     "Races/Skaven.md",
-    "Races/Races.md",
-    "Races/Khan.md",
     "Pasted image 20260318122938.png",
     "Overview.canvas"
   ]
